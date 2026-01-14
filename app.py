@@ -125,4 +125,3 @@ if st.session_state.records:
 
 st.divider()
 st.caption("Gợi ý: nếu bạn muốn UI giống bản React hiện tại hơn, mình có thể thêm tab 'Học sinh' / 'Ngân hàng 34 mẫu' và ô tìm kiếm.")
-
